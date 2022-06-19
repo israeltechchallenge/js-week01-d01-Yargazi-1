@@ -26,4 +26,4 @@ const getRandomNum = (number, comparer) => {
 } 
 getRandomNum()
 
-сalculateBtn.addEventListener("click", getRandomNum); 
+сalculateBtn.addEventListener("click", getRandomNum);

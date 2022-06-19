@@ -12,5 +12,5 @@ function modulo(num1, num2) {
 
 }
 modulo(num1, num2)
-// Do not remove or change this line, or the tests won't work
+
 export { modulo };
